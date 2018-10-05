@@ -6,7 +6,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 import javafx.fxml.FXMLLoader;
 //
-// Commento sul lavoro fatto a scuola
+
 
 public class Main extends Application {
 	@Override
