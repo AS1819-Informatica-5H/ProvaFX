@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="provafx.ProvaController">
+   <center>
+      <Button fx:id="btnSaluta" mnemonicParsing="false" onAction="#onSaluta" text="Saluta" BorderPane.alignment="CENTER" />
+   </center>
+   <left>
+   
+   <Button fx:id="btnSaluta2" mnemonicParsing="false" onAction="#onSaluta2" text="Saluta" BorderPane.alignment="CENTER" />
+   </left>
+</BorderPane>
